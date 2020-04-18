@@ -1,4 +1,5 @@
 # quizapp
+A simple Computer Science Quiz App built on OpenTDB API
 
 ## Project setup
 ```
